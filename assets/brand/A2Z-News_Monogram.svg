@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" role="img" aria-label="A2Z News monogram">
+  <defs>
+    <style>
+      .san { font-family: "Inter", Arial, sans-serif; }
+      .mono { font-family: "IBM Plex Mono", "Courier New", monospace; }
+    </style>
+  </defs>
+  <rect width="1024" height="1024" rx="225" fill="#0B0B0F"/>
+  <rect x="382" y="280" width="220" height="260" rx="22" fill="#1F4DFF"/>
+  <text x="190" y="526" class="san" font-weight="800" font-size="330" letter-spacing="-14" fill="#FBFBF8">A</text>
+  <text x="426" y="526" class="san" font-weight="800" font-size="330" letter-spacing="-14" fill="#FBFBF8">2</text>
+  <text x="610" y="526" class="san" font-weight="800" font-size="330" letter-spacing="-14" fill="#FBFBF8">Z</text>
+  <text x="256" y="706" class="mono" font-weight="500" font-size="62" letter-spacing="30" fill="#FBFBF8">NEWS</text>
+  <rect x="330" y="745" width="360" height="8" fill="#1F4DFF"/>
+</svg>

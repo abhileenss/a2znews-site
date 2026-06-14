@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 230" width="560" height="230" role="img" aria-label="A2Z News logo">
+  <defs>
+    <style>
+      .san { font-family: "Inter", Arial, sans-serif; }
+      .mono { font-family: "IBM Plex Mono", "Courier New", monospace; }
+    </style>
+  </defs>
+  <rect width="560" height="230" fill="none"/>
+  <rect x="158" y="34" width="96" height="112" rx="8" fill="#1F4DFF"/>
+  <text x="56" y="132" class="san" font-weight="800" font-size="152" letter-spacing="-6" fill="#0B0B0F">A</text>
+  <text x="172" y="132" class="san" font-weight="800" font-size="152" letter-spacing="-6" fill="#FBFBF8">2</text>
+  <text x="262" y="132" class="san" font-weight="800" font-size="152" letter-spacing="-6" fill="#0B0B0F">Z</text>
+  <text x="396" y="86" class="mono" font-weight="500" font-size="30" letter-spacing="8" fill="#0B0B0F">NEWS</text>
+  <rect x="398" y="100" width="138" height="3" fill="#1F4DFF"/>
+  <text x="60" y="190" class="mono" font-weight="500" font-size="16" letter-spacing="5" fill="#5C5C66">EVERY STORY, A TO Z</text>
+</svg>
